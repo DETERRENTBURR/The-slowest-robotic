@@ -18,7 +18,7 @@ This project involves the creation of a compact and efficient robot specifically
 📷 Draft Sketch of the Robot
 </p>
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/c720f304-706b-4fab-8ddb-1de5cc8a671a"  width="50%" height="50%"/>
+    <img src="https://github.com/user-attachments/assets/c720f304-706b-4fab-8ddb-1de5cc8a671a"  width="70%" height="70%"/>
 </p>
 
 ## Draft Overview
