@@ -86,4 +86,154 @@ To address the identified challenges, the following adjustments were made:
 2. **Enhanced Stability with Six Legs**:
    - The number of legs was increased from **four to six**, providing better balance and allowing the robot to navigate obstacles more effectively.
    - The additional legs improved the robot's ability to distribute its weight evenly and maintain stability during challenging maneuvers.
+     
+
+# 🚀 Final Design and Assembly of the Obstacle-Course Robot
+
+This section provides a detailed breakdown of the robot's finalized design, including its key components and assembly process. Each part has been carefully selected and refined to overcome the challenges faced during the initial prototype. Below, you’ll find descriptions of the components, along with images, videos of the 3D printing process, and footage of the robot's successful operation.
+
+---
+
+## 1. **Body (Frame)**
+The frame forms the foundation of the robot, supporting all components and ensuring stability. It is designed to be lightweight yet sturdy, accommodating the crankshaft mechanism and other components seamlessly.
+
+### Media:
+- **Image of the Body**:  
+<p align="center">
+📷 Body
+</p>
+<p align="center">
+    <img src=""  width="70%" height="70%"/>
+</p>   
+
+- **Video of the Frame Being cut**:  
+  <p align="center">
+<video src= controls></video>
+</p>
+
+---
+
+## 2. **Wheels**
+The wheels have been redesigned for optimal grip and efficiency. They feature a modified shape to work effectively with the toothed rubber belt, ensuring reliable torque transfer and minimizing slippage.
+
+### Media:
+- **Image of the Wheels**:  
+<p align="center">
+📷 Wheels
+</p>
+<p align="center">
+    <img src=""  width="70%" height="70%"/>
+</p>  
+
+- **Video of the Wheels Printing Process**:  
+  <p align="center">
+<video src= controls></video>
+</p>
+
+---
+
+## 3. **Legs (Nails Acting as Feet)**
+The legs are crafted from sturdy nails that act as feet, providing traction and stability on uneven terrain. These legs are attached via a crankshaft mechanism to generate the robot's distinctive movement.
+
+### Media:
+- **Image of the Nails as Legs**:  
+ <p align="center">
+📷 Legs
+</p>
+<p align="center">
+    <img src=""  width="70%" height="70%"/>
+</p> 
+
+---
+
+## 4. **Toothed Rubber Belt**
+A robust rubber belt with teeth ensures a strong connection between the three wheels, efficiently transferring rotational motion from the motor to all wheels.
+
+### Media:
+- **Image of the Belt**:  
+<p align="center">
+📷 Belt
+</p>
+<p align="center">
+    <img src=""  width="70%" height="70%"/>
+</p>  
+
+- **Video of Belt Printing**:  
+  <p align="center">
+<video src= controls></video>
+</p>
+
+---
+
+## 5. **Leg Mounts (Crankshaft-Connecting Attachments)**
+These mounts secure the legs to the crankshaft mechanism, enabling smooth and coordinated movement. Their design ensures durability and ease of adjustment.
+
+### Media:
+- **Image of Leg Mounts**:  
+<p align="center">
+📷 Leg Mounts
+</p>
+<p align="center">
+    <img src=""  width="70%" height="70%"/>
+</p>  
+
+- **Video of Mounts Printing**:  
+<p align="center">
+<video src= controls></video>
+</p>
+
+---
+
+## 6. **Bearings**
+Bearings have been incorporated into the wheels to reduce friction and ensure smooth rotational motion, improving efficiency and longevity.
+
+### Media:
+- **Image of Bearings**:  
+ <p align="center">
+📷 Bearings
+</p>
+<p align="center">
+    <img src=""  width="70%" height="70%"/>
+</p> 
+
+---
+
+## 7. **Motors**
+Two powerful motors drive the crankshaft mechanism and the wheels, providing sufficient torque for the robot to navigate complex courses.
+
+### Media:
+- **Image of Motors**:  
+<p align="center">
+📷 Motors
+</p>
+<p align="center">
+    <img src=""  width="70%" height="70%"/>
+</p> 
+
+---
+
+## 8. **Electronics**
+The electronic components, including the battery pack, PCB, and wiring, power the motors and ensure seamless control. The electronics have been neatly integrated into the body for ease of access and maintenance.
+
+### Media:
+- **Image of Electronics**:  
+<p align="center">
+📷 Electronics
+</p>
+<p align="center">
+    <img src=""  width="70%" height="70%"/>
+</p> 
+
+---
+
+## Final Assembly and Successful Test
+
+After assembling all components, the robot was put to the test on an obstacle course. The successful launch showcased its stability, efficiency, and balloon-popping capabilities.
+
+### Media:
+- **Video of the Robot in Action**:  
+<p align="center">
+<video src= controls></video>
+</p>
+
 
