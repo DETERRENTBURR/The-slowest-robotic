@@ -68,11 +68,7 @@ The first iteration of the **Obstacle-Course Robot** revealed several issues in 
 ## Initial Test Video
 
 <p align="center">
-    <b>Watch the video of the initial test run:</b><br>
-    <a href="">
-        <img src="" width="70%" height="70%"/>
-    </a>
-    <br>
+<video src=https://github.com/user-attachments/assets/5127b385-a910-4cf7-bdf1-8992dad150a8 controls></video>
     <i>The video demonstrates the issues encountered during the first test, including slipping wheels and instability.</i>
 </p>
 
