@@ -50,3 +50,44 @@ The creation of the robot will involve the following components (as indicated in
 These components provide a balance between durability, modularity, and ease of assembly.
 
 ---
+
+## Challenges Identified During the Initial Build
+
+The first iteration of the **Obstacle-Course Robot** revealed several issues in its design and functionality that required significant modifications to improve performance:
+
+1. **Friction Issues in the Belt Drive System**:
+   - The friction between the **belt drive system** and the **wheels** was higher than the friction between the **shaft** and the **wheels**.  
+   - This imbalance caused the wheels to slip, leading to inefficient movement and difficulty in navigating the obstacle course.
+
+2. **Insufficient Stability with Four Legs**:
+   - The initial design, featuring only **four legs**, proved unstable when encountering complex obstacles.
+   - This limited the robot's ability to maintain balance and stability, particularly during sharp turns or uneven terrain.
+
+---
+
+## Initial Test Video
+
+<p align="center">
+    <b>Watch the video of the initial test run:</b><br>
+    <a href="">
+        <img src="" width="70%" height="70%"/>
+    </a>
+    <br>
+    <i>The video demonstrates the issues encountered during the first test, including slipping wheels and instability.</i>
+</p>
+
+---
+
+## Implemented Solutions
+
+To address the identified challenges, the following adjustments were made:
+
+1. **Improved Belt Drive System**:
+   - **Thicker Belts**: The belt was redesigned to be thicker, reducing the likelihood of slipping and enhancing durability.  
+   - **Revised Wheel Design**: The shape of the wheels was modified to increase the contact area and improve grip with the belt.  
+   - **Bearing Installation**: Bearings were added to the wheels, ensuring smoother motion and reducing unwanted friction.
+
+2. **Enhanced Stability with Six Legs**:
+   - The number of legs was increased from **four to six**, providing better balance and allowing the robot to navigate obstacles more effectively.
+   - The additional legs improved the robot's ability to distribute its weight evenly and maintain stability during challenging maneuvers.
+
